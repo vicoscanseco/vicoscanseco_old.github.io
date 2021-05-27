@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 
-    <title>Dream Pulse TemplateMo</title>
+    <title>Victor Canseco</title>
 <!--
 DREAM PULSE
 https://templatemo.com/tm-536-dream-pulse
@@ -29,7 +29,7 @@ https://templatemo.com/tm-536-dream-pulse
               <div class="tm-brand-box">
                 <div class="tm-double-border-1">
                   <div class="tm-double-border-2">
-                    <h1 class="tm-brand text-uppercase">Dream Pulse</h1>
+                    <h1 class="tm-brand text-uppercase">Victor Canseco</h1>
                   </div>
                 </div>
               </div>
