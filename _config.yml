@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Victor Canseco"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Fullstack Developer. C#, ASP.NET, Blazor, SQL Server, Boostrap."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
