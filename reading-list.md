@@ -8,10 +8,10 @@ order: 3
 
 Programacion:
 
-Blazor Revealed - Peter Himschoot
-Pro ASP.NET Core MVC 2 - Adam Freeman
-C# 8.0 and .NET Core 3.0 - Mark J. Price
-Software Development and Professional Practice - John Dooley 
+1. Blazor Revealed - Peter Himschoot
+2. Pro ASP.NET Core MVC 2 - Adam Freeman
+3. C# 8.0 and .NET Core 3.0 - Mark J. Price
+4. Software Development and Professional Practice - John Dooley 
 
 Liderazgo
 
