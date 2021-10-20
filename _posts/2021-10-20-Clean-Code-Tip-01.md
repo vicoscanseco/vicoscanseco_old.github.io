@@ -1,5 +1,5 @@
 ---
-title: Clean code Tips 01
+title: Clean code Tip 01
 author: Victor Canseco
 layout: post
 ---
@@ -31,4 +31,27 @@ public static string Get(string input)
 }
 ´´´
 
+
+Ya que tengas todo claro, ahora si dedicate un tiempo a revisar y a nombrar cada uno de:
+ - Clases
+ - Metodos
+ - Parametros
+ - Variables
+ - Librerias
+ - Namespaces
+
+ ´´´ cs
+ public static string GetReversedString(string originalString)
+{
+  char[] reversedChars = new char[originalString.Length];
+  int currentIndex = originalString.Length - 1;
+  foreach (var currentChar in originalString)
+  {
+    reversedChars[currentIndex] = currentChar;
+    currentIndex--;
+  }
+
+  return new String(reversedChars);
+}
+´´´
 
