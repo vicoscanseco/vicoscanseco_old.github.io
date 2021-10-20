@@ -16,7 +16,7 @@ Para ello no te quiebres la cabeza cuando recien empiezas a codificar. Los exper
 
 Asi que primero codifica como gustes.
 
-´´´ cs
+``` cs
 public static string Get(string input)
 {
   char[] arr = new char[input.Length];
@@ -29,7 +29,7 @@ public static string Get(string input)
 
   return new String(arr);
 }
-´´´
+```
 
 Ya que tengas todo claro, ahora si dedicate un tiempo a revisar y a nombrar cada uno de:
  - Clases
@@ -39,6 +39,7 @@ Ya que tengas todo claro, ahora si dedicate un tiempo a revisar y a nombrar cada
  - Librerias
  - Namespaces
 
+ ``` cs
  public static string GetReversedString(string originalString)
 {
   char[] reversedChars = new char[originalString.Length];
@@ -51,3 +52,5 @@ Ya que tengas todo claro, ahora si dedicate un tiempo a revisar y a nombrar cada
 
   return new String(reversedChars);
 }
+
+```
