@@ -4,9 +4,9 @@ author: Victor Canseco
 layout: post
 ---
 
-# Clean Code Tips - 01
+Clean Code Tips - 01
 
-## Usar nombres significativos
+ Usar nombres significativos
 
 Hola, bienvenidos a este nuevo blog. Comenzar&eacute; con uno de los puntos m&aacute;s dificiles al momento de comenzar a programar y es el **Poner nombre** a tus variables, clases, arreglos, etc.
 
