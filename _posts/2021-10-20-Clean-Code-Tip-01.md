@@ -54,3 +54,11 @@ Ya que tengas todo claro, ahora si dedicate un tiempo a revisar y a nombrar cada
 }
 
 ```
+
+Lamentablemente tal vez nunca seamos expertos para nombrar cada seccion de nuestro codigo, triste pero cierto.
+
+
+Muchos de ustedes se preguntaran para que perder tiempo limpiando y refactorizando mi codigo, si yo le entiendo y con eso basta!; ese es uno de los errores mas graves que cometemos como programadores.
+
+
+Sin embargo este tiempo lo podemos considerar una inversion 
