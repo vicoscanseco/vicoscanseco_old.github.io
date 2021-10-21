@@ -1,9 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
+    "\\assets\\css",
+    "\\_includes",
+    "\\_layouts",
     "\\_posts",
     "\\_sections"
   ],
-  "SelectedNode": "\\_sections\\portfolio.html",
+  "SelectedNode": "\\_sections\\intro.html",
   "PreviewInSolutionExplorer": false
 }
