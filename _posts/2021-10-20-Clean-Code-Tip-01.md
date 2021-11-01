@@ -8,7 +8,7 @@ layout: post
 
 <h2> Usar nombres significativos</h2>
 
-Hola, bienvenidos a este nuevo blog. Comenzar&eacute; con uno de los puntos m&aacute;s difíciles al momento de comenzar a programar y es el **Poner nombre** a tus variables, clases, arreglos, etc.
+Hola, bienvenidos a este nuevo blog. Comenzar&eacute; con uno de los puntos m&aacute;s dif&iacute;ciles al momento de comenzar a programar y es el **Poner nombre** a tus variables, clases, arreglos, etc.
 
 Y vaya que es un martirio comenzar a ponerles nombre, sin embargo uno de los primeros tips para tener un c&oacute;digo limpio y claro es nombrar correctamente cada elemento que se utilice.
 
