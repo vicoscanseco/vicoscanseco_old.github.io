@@ -1,12 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\assets",
-    "\\assets\\css",
     "\\_includes",
     "\\_layouts",
-    "\\_posts",
-    "\\_sections"
+    "\\_posts"
   ],
+  "SelectedNode": "\\_posts\\2021-10-20-Clean-Code-Tip-01.md",
   "PreviewInSolutionExplorer": false
 }
